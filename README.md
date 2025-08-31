@@ -46,6 +46,6 @@ pip install -r requirements.txt
 # Download pre-trained models from Google Drive and place in models/ folder
 # https://drive.google.com/drive/folders/1XCkShPqMWAAPkZfCUr7Ms9c0bhg1ET25?usp=drive_link
 
-# Run the main script (make sure your video is named video.mp4)
+# Run the main script (make sure video is named video.mp4)
 python src/Landmark_Extraction_Algorithms.py
 
